@@ -1,5 +1,6 @@
 # NAAN-MUDHALVAN
-#News Media App Guide
+#News Media App
+
 #Overview:
 
       Welcome to our News Media Application! This app is designed to keep you informed about the latest news and events from around the world. 
